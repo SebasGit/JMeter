@@ -1,0 +1,109 @@
+1380038017817,651,Login,200,OK,Test + nqtemp 1-1,,true,11341,467
+1380038018610,114,New Loop,200,OK,Test + nqtemp 1-1,text,true,1991,113
+1380038018725,44,folder| Get Folder,200,OK,Test + nqtemp 1-1,text,true,10332,30
+1380038018770,23,folder| NEW Loop Folder,200,OK,Test + nqtemp 1-1,text,true,1911,22
+1380038018805,465,Upload to Library,200,OK,Test + nqtemp 1-1,text,true,428,465
+1380038019272,152,Upload to Loop,200,OK,Test + nqtemp 1-1,text,true,2095,151
+1380038019425,132,Get All Loop Views,200,OK,Test + nqtemp 1-1,text,true,7110,61
+1380038019557,88,Get Document  Fields -- TBC w Kris,200,OK,Test + nqtemp 1-1,text,true,2438,75
+1380038019645,43,Login | Get Token,200,OK,Test + nqtemp 1-1,text,true,6043,21
+1380038019734,38,doc| Update Document ,200,OK,Test + nqtemp 1-1,text,true,512,38
+1380038019784,88,doc | Get Library Document,200,OK,Test + nqtemp 1-1,text,true,2697,72
+1380038019884,101,doc | Update Loop Document Order - Todo- BLANK RES,200,OK,Test + nqtemp 1-1,text,true,308,101
+1380038019996,48,doc | Update Document Library Order,200,OK,Test + nqtemp 1-1,text,true,508,48
+1380038020055,46,doc |  Copy Documents To Profile Folder -TODO - BLACK RES,200,OK,Test + nqtemp 1-1,text,true,308,46
+1380038020110,62,doc | Copy Documents to Loop Folder,200,OK,Test + nqtemp 1-1,text,true,518,62
+1380038020183,115,doc | Get Document PDF,200,OK,Test + nqtemp 1-1,text,true,36180,73
+1380038020323,38,doc-editor| Get Document,200,OK,Test + nqtemp 1-1,text,true,739,38
+1380038020362,70,doc-editor| Add field and save [ND] ${FIELD_ID},200,OK,Test + nqtemp 1-1,text,true,3500,69
+1380038020433,99,doc-editor| Get Field History,200,OK,Test + nqtemp 1-1,text,true,792,99
+1380038020533,138,doc-editor| Get Document Image,200,OK,Test + nqtemp 1-1,bin,true,58480,71
+1380038020672,59,doc-editor| Doc save,200,OK,Test + nqtemp 1-1,text,true,2738,59
+1380038020733,49,Get All Loop Views,200,OK,Test + nqtemp 1-1,text,true,7202,27
+1380038020814,23,Get View by Document,200,OK,Test + nqtemp 1-1,text,true,2039,22
+1380038020853,130,New Loop,200,OK,Test + nqtemp 1-1,text,true,2244,129
+1380038020996,41,Get Loop,200,OK,Test + nqtemp 1-1,text,true,2274,40
+1380038021043,37,Update Loop,200,OK,Test + nqtemp 1-1,text,true,2288,36
+1380038021086,73,Get Loop Settings ,200,OK,Test + nqtemp 1-1,text,true,8228,63
+1380038021224,56,Update Loop Settings,200,OK,Test + nqtemp 1-1,text,true,2053,55
+1380038021285,400,Activity| Get All Activity,200,OK,Test + nqtemp 1-1,text,true,47611,282
+1380038021806,45,account| Update Account Contact Info F|L|E,200,OK,Test + nqtemp 1-1,text,true,2364,45
+1380038021857,23,account| Update Account Contact Info,200,OK,Test + nqtemp 1-1,text,true,2532,22
+1380038021885,35,account| Update Account Notifications,200,OK,Test + nqtemp 1-1,text,true,3351,35
+1380038021926,23,account| Get Account Notification,200,OK,Test + nqtemp 1-1,text,true,3248,23
+1380038021955,17,account| Get Account Contact Info,200,OK,Test + nqtemp 1-1,text,true,2174,16
+1380038021977,32,sign| Set Drawn initial PNG ??,415,Unsupported Media Type,Test + nqtemp 1-1,text,false,1302,32
+1380038022009,34,sign| Set Drawn Signature PNG ??,500,Internal Server Error,Test + nqtemp 1-1,bin,false,2084,33
+1380038022043,23,sign| Get Current Drawn initial,404,Not Found,Test + nqtemp 1-1,bin,false,2130,23
+1380038022067,27,sign| Get Current Drawn Signature,404,Not Found,Test + nqtemp 1-1,bin,false,2129,27
+1380038022095,20,sign| Set Current Signature Configuration,200,OK,Test + nqtemp 1-1,text,true,308,20
+1380038022120,23,sign| Get Current Signature Configuration,200,OK,Test + nqtemp 1-1,text,true,406,23
+1380038022148,37,folder| Get Folder,200,OK,Test + nqtemp 1-1,text,true,8915,27
+1380038022234,38,folder| NEW Folder,200,OK,Test + nqtemp 1-1,text,true,401,38
+1380038022285,27,folder| Duplicate Folder in Library,200,OK,Test + nqtemp 1-1,text,true,308,27
+1380038022320,22,folder| update Folder in Library,200,OK,Test + nqtemp 1-1,text,true,418,22
+1380038022351,17,folder| Update Folder Order,200,OK,Test + nqtemp 1-1,text,true,308,17
+1380038022376,29,folder| Get Loop Folder,200,OK,Test + nqtemp 1-1,text,true,667,29
+1380038022414,36,folder| NEW Loop Folder,200,OK,Test + nqtemp 1-1,text,true,2419,36
+1380038022459,40,folder| UPDATE Loop Folder,200,OK,Test + nqtemp 1-1,text,true,308,40
+1380038022506,27,folder| Update Loop Folder Bulk,200,OK,Test + nqtemp 1-1,text,true,308,27
+1380038022540,20,folder| Get Loop Folder Document ??,405,Method Not Allowed,Test + nqtemp 1-1,text,false,1308,20
+1380038022568,26,folder| Share/Unshare Folder ??,400,Bad Request,Test + nqtemp 1-1,text,false,354,26
+1380038022599,27,folder| Remove Folder,200,OK,Test + nqtemp 1-1,text,true,309,27
+1380038022633,19,folder| Remove Folder Loop (NO DOC),200,OK,Test + nqtemp 1-1,text,true,308,19
+1380038022660,44,Get Loop Participant,200,OK,Test + nqtemp 1-1,text,true,496,44
+1380038022709,113,New Loop Participant (doc incorrect - include viewId),200,OK,Test + nqtemp 1-1,text,true,2548,112
+1380038022826,45,New Loop Participant (doc incorrect - include viewId) - required for relationship,200,OK,Test + nqtemp 1-1,text,true,531,45
+1380038022872,38,Update Loop Participant,200,OK,Test + nqtemp 1-1,text,true,562,38
+1380038022915,54,Update Loop Participant Relationship,200,OK,Test + nqtemp 1-1,text,true,308,54
+1380038022973,33,Delete Loop Participant,200,OK,Test + nqtemp 1-1,text,true,308,33
+1380038023010,34,Get User Profiles List,200,OK,Test + nqtemp 1-1,text,true,9067,25
+1380038023056,62,Create a new individual profile,200,OK,Test + nqtemp 1-1,text,true,418,62
+1380038023123,25,Get a Profile,200,OK,Test + nqtemp 1-1,text,true,418,25
+1380038023152,16,Update Team Invitation - ???,400,Bad Request,Test + nqtemp 1-1,text,false,303,16
+1380038023173,22,Withdraw Team Invitation,200,OK,Test + nqtemp 1-1,text,true,309,22
+1380038023199,24,Switch to Admin profile,200,OK,Test + nqtemp 1-1,text,true,1170,24
+1380038023224,77,New Document Tag,200,OK,Test + nqtemp 1-1,text,true,429,77
+1380038023302,46,New Loop Tag,200,OK,Test + nqtemp 1-1,text,true,409,46
+1380038023349,20,Get Tag for Profile,200,OK,Test + nqtemp 1-1,text,true,3062,17
+1380038023369,25,Get Loop Tags,200,OK,Test + nqtemp 1-1,text,true,375,25
+1380038023395,23,Get Document Tags,200,OK,Test + nqtemp 1-1,text,true,431,23
+1380038023419,40,Get Document Tags for Profile,200,OK,Test + nqtemp 1-1,text,true,1057,40
+1380038023459,62,Get Loop Tags for Profile ,200,OK,Test + nqtemp 1-1,text,true,2037,62
+1380038023521,42,Remove Document Tag,200,OK,Test + nqtemp 1-1,text,true,308,42
+1380038023563,35,Remove Loop Tag,200,OK,Test + nqtemp 1-1,text,true,308,35
+1380038023599,36,Switch to Normal profile,200,OK,Test + nqtemp 1-1,text,true,516,36
+1380038023636,147,Get User Notifications,200,OK,Test + nqtemp 1-1,text,true,6813,141
+1380038023784,35,Get User Notifications for Loop,200,OK,Test + nqtemp 1-1,text,true,403,35
+1380038023819,30,Get User Message Notifications for Loop,200,OK,Test + nqtemp 1-1,text,true,331,30
+1380038023849,25,Get User Notifications Count,200,OK,Test + nqtemp 1-1,text,true,318,25
+1380038023875,33,Get User Notifications Count for Loop,200,OK,Test + nqtemp 1-1,text,true,318,33
+1380038023909,17,Get Notification Counts for Profiles,200,OK,Test + nqtemp 1-1,text,true,367,17
+1380038023926,38,Add Contact,200,OK,Test + nqtemp 1-1,text,true,2853,37
+1380038023968,48,Get Contact,200,OK,Test + nqtemp 1-1,text,true,654,48
+1380038024020,40,update Contact,200,OK,Test + nqtemp 1-1,text,true,636,40
+1380038024064,32,Get All Contacts,200,OK,Test + nqtemp 1-1,text,true,3358,30
+1380038024107,25,delete Contact,200,OK,Test + nqtemp 1-1,text,true,308,25
+1380038024136,41,New Clause,200,OK,Test + nqtemp 1-1,text,true,422,41
+1380038024182,25,Get Clause,200,OK,Test + nqtemp 1-1,text,true,603,25
+1380038024214,26,Update Clause,200,OK,Test + nqtemp 1-1,text,true,461,26
+1380038024244,22,Delete Clause,200,OK,Test + nqtemp 1-1,text,true,308,22
+1380038024270,49,Create New Conversation,200,OK,Test + nqtemp 1-1,text,true,404,49
+1380038024350,19,Create New Message,405,Method Not Allowed,Test + nqtemp 1-1,text,false,1309,19
+1380038024370,19,Create New Compliance Message,200,OK,Test + nqtemp 1-1,text,true,308,19
+1380038024389,56,Create New Message and Conversation ,200,OK,Test + nqtemp 1-1,text,true,531,56
+1380038024446,53,Get list of Conversations,200,OK,Test + nqtemp 1-1,text,true,553,53
+1380038024500,61,Get single Conversation ,200,OK,Test + nqtemp 1-1,text,true,455,61
+1380038024562,27,Get Conversation Counts,200,OK,Test + nqtemp 1-1,text,true,332,27
+1380038024590,42,Get Conversation Messages,200,OK,Test + nqtemp 1-1,text,true,541,42
+1380038024632,30,Get Loop Task Lists,200,OK,Test + nqtemp 1-1,text,true,308,30
+1380038024663,25,Get Profile Tasks,200,OK,Test + nqtemp 1-1,text,true,308,25
+1380038024688,24,Create New Task List,200,OK,Test + nqtemp 1-1,text,true,367,24
+1380038024713,28,Update Task List,200,OK,Test + nqtemp 1-1,text,true,368,28
+1380038024742,43,Create New Task,200,OK,Test + nqtemp 1-1,text,true,412,43
+1380038024786,33,Update Task,200,OK,Test + nqtemp 1-1,text,true,377,33
+1380038024819,23,Update Tasks (Bulk),200,OK,Test + nqtemp 1-1,text,true,308,23
+1380038024842,29,Create New Global Task,200,OK,Test + nqtemp 1-1,text,true,479,29
+1380038024871,28,Update Global Task ,200,OK,Test + nqtemp 1-1,text,true,346,28
+1380038024900,35,Add Task Assignee,200,OK,Test + nqtemp 1-1,text,true,392,35
+1380038025041,309,Logout Not REST,302,Found,Test + nqtemp 1-1,,true,240,309
